@@ -1,76 +1,16 @@
+<!-- ============================= -->
+<!--      HACKER / MATRIX THEME    -->
+<!-- ============================= -->
+
 <!-- Banner GIF -->
 ![Hacker Banner](https://media3.giphy.com/media/GK5cQrLmRbgIJfOl5Z/giphy.gif)
 
-# If it’s online, I’ve probably tested it-  I'm Sagar  👋
-**|Offensive Security Analyst | Senior VAPT Consultant | Penetration Tester | Red Teamer**
+# If it’s online, I’ve probably tested it — I'm Sagar 👋  
+**Offensive Security Analyst | Senior VAPT Consultant | Penetration Tester | Red Teamer**
 
 📍 Bengaluru, India  
-📧 [sagard5192@gmail.com](mailto:sagard5192@gmail.com) | ☎ +91 8073176217  
-[LinkedIn](https://www.linkedin.com/in/sagar-d-b79120214) | [GitHub](https://github.com/Sagar5192) | [Medium](https://medium.com/@sagard5192)
-
----
-
-## 🛡️ About Me
-Cybersecurity professional with **2.7 years of experience** in penetration testing, red teaming, and security assessments across Web, Mobile, API, and Cloud environments.  
-
-Specialized in adversary simulation, phishing campaigns, Docker & Kubernetes security, and threat modeling. Passionate about continuous learning and contributing to security research.
-
----
-
-## 💼 Work Experience
-**Senior VAPT Consultant** – CyRAACS, Bengaluru, India (Feb 2023 – Present)  
-- Leading a team of 10, assisting a top bank with Internal PT & Red Team engagements.  
-- Conducting offensive security assessments on Web, API, Mobile, Thick Client & Infrastructure.  
-- Executing full-stack penetration testing (network, app, cloud, containers).  
-- Leading Red Team engagements simulating real-world attacks for banking & telecom clients.  
-- Performing phishing simulations and social engineering attacks.  
-- Active Directory post-exploitation: BloodHound, SharpHound, Mimikatz.  
-- Developed automation scripts using Python & PowerShell.  
-- Delivered reports with PoCs, risk analysis & remediation (aligned with OWASP, NIST, ISO 27001).
-
----
-
-## 🛠️ Skills & Technologies
-
-**Web / API Security:** OWASP Top 10, SSRF, SSTI, RCE, Auth Bypass, GraphQL Testing, API Enumeration  
-**Mobile Security:** Frida, Objection, JADX, Burp Suite  
-**Red Teaming:** OSINT, Lateral Movement, Persistence, EDR Evasion, Cobalt Strike, Empire, CrackMapExec, BloodHound  
-**Cloud Security:** AWS Pentesting, IAM Misconfigurations, S3 Security, ScoutSuite, Prowler  
-**Container Security:** Docker/K8s Security, CI/CD Pipeline Security, Trivy, Kube-Hunter, Dockle, Falco  
-**Pentesting Tools:** Burp Suite, OWASP ZAP, Nmap, Metasploit, Nikto, SQLmap  
-**Reverse Engineering:** IDA Pro, Ghidra, OllyDbg  
-**Programming / Scripting:** Python, Bash, PowerShell, JavaScript
-
----
-
-## 🎓 Education
-**B.E. Computer Science Engineering** – JSS Academy of Technical Education (2019–2023) | CGPA: 8.4  
-**Pre-University (PCMB)** – Surana Ind PU College (2017–2019) | 83%
-
----
-
-## 🏆 Certifications
-- Certified Red Team Professional (CRTP)  
-- eLearnSecurity Junior Penetration Tester (eJPTv2)  
-- INE Certified Cloud Associate (ICCA)  
-- Certified Application Practitioner (CAP)  
-- ISO/IEC 27001 Information Security Associate  
-- API Security Fundamentals – APISEC University
-
----
-
-## 📂 Projects & Write-Ups
-- **Firebase Security Exploit** (07/2023) – Misconfigured Firebase DB exploitation  
-- **Google-Firebase-exploit** (10/2023) – Automated misconfig discovery & data extraction  
-- **Phishing Simulation Toolkit** (12/2023) – Automated spear-phishing campaigns  
-- **Container Security Audit Tool** (01/2024) – Docker/K8s vulnerability scanner
-
----
-
-## 🏅 Awards & Recognition
-- Best Employee of the Year – CyRAACS (2024–2025)  
-- Star Performer of the Month – Nov 2023  
-- Hall of Fame – Swiggy Bug Bounty Program
+📧 Email: sagard5192@gmail.com | ☎ +91 8073176217  
+🌐 LinkedIn • GitHub • Medium
 
 ---
 
@@ -81,6 +21,106 @@ Specialized in adversary simulation, phishing campaigns, Docker & Kubernetes sec
 
 ---
 
-<!-- Footer Animation -->
+# 🟩 About Me  
+
+
+Cybersecurity professional with **2.7+ years** in offensive security, specializing in:
+
+✔ Penetration Testing (Web, API, Mobile, Infra)  
+✔ Red Team Engagements  
+✔ Cloud & Container Security  
+✔ Phishing + Social Engineering  
+✔ AD Post-Exploitation (BloodHound, SharpHound, Mimikatz)  
+✔ Automation using Python & PowerShell  
+
+I break things ethically to make them stronger.
+
+---
+
+# 🟩 Work Experience
+
+## 🔴 Senior VAPT Consultant — CyRAACS (Feb 2023 → Present)
+
+- Led a **10-member team** for a leading bank’s Internal PT & Red Team operations  
+- Conducted Web/API/Mobile/Infra & Cloud pentests  
+- Designed and executed **Red Team adversary simulations**  
+- Crafted advanced phishing & social-engineering payloads  
+- Performed AD attacks & post-exploitation  
+- Delivered high-quality reports mapped to **OWASP, NIST, ISO 27001**  
+- Automated attack workflows using Python & PowerShell  
+
+---
+
+# 🟩 Skills & Technologies  
+
+### 💥 Web & API Security  
+OWASP Top 10, SSRF, SSTI, RCE, Auth Bypass, GraphQL, API Recon  
+
+### 📱 Mobile Security  
+Frida, Objection, JADX, Burp Suite  
+
+### 🎯 Red Teaming  
+OSINT, Lateral Movement, Persistence, EDR Evasion  
+Cobalt Strike, Empire, CrackMapExec, BloodHound  
+
+### ☁️ Cloud & Container  
+AWS Pentesting, IAM Misconfigurations, Docker/K8s Security  
+Falco · Trivy · kube-hunter · Dockle  
+
+### 🛠️ Pentesting Tools  
+Burp Suite · ZAP · Nmap · SQLmap · Metasploit · Nikto  
+
+### 🧬 Reverse Engineering  
+IDA Pro · Ghidra · OllyDbg  
+
+### 💻 Programming  
+Python · Bash · PowerShell · JavaScript  
+
+---
+
+# 🟩 Education  
+🎓 **B.E. Computer Science Engineering** — JSSATE (CGPA: 8.4)  
+🎓 **PU (PCMB)** — Surana Ind PU College (83%)  
+
+---
+
+# 🟩 Certifications  
+- CRTP  
+- eJPTv2  
+- ICCA  
+- CAP  
+- ISO/IEC 27001 Information Security Associate  
+- APISEC: API Security Fundamentals  
+
+---
+
+# 🟩 Projects & Write-Ups  
+🔥 Firebase Exploitation (2023)  
+🔍 Google Firebase Misconfig Scanner  
+🎣 Phishing Simulation Toolkit  
+📦 Container Security Audit Tool  
+
+---
+
+# 🟩 Awards  
+🏆 Best Employee of the Year — CyRAACS (2024–25)  
+⭐ Star Performer — Nov 2023  
+🎖 Hall of Fame — Swiggy Bug Bounty  
+
+---
+
+# 🟩 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagar5192&show_icons=true&theme=chartreuse-dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar5192&layout=compact&theme=chartreuse-dark" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagar5192&theme=chartreuse-dark" height="150" />
+</p>
+
+---
+
 <!-- Footer Banner -->
 ![Footer Banner](https://media1.giphy.com/media/QWdT60eDhFfcKgPG2T/giphy.gif)
