@@ -1,7 +1,7 @@
 <!-- Banner GIF -->
 ![Hacker Banner](https://media3.giphy.com/media/GK5cQrLmRbgIJfOl5Z/giphy.gif)
 
-# If it’s online, I’ve probably tested it-  I'm Sagar D 👋
+# If it’s online, I’ve probably tested it-  I'm Sagar  👋
 **|Offensive Security Analyst | Senior VAPT Consultant | Penetration Tester | Red Teamer**
 
 📍 Bengaluru, India  
