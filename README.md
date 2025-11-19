@@ -1,5 +1,5 @@
 <!-- Banner GIF -->
-![Hacker Terminal]([https://media.giphy.com/media/l0HlQ7LRal5sXB5iI/giphy.gif](https://media0.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif))
+![Hacker Banner](https://media3.giphy.com/media/GK5cQrLmRbgIJfOl5Z/giphy.gif)
 
 # If it’s online, I’ve probably tested it-  I'm Sagar D 👋
 **|Offensive Security Analyst | Senior VAPT Consultant | Penetration Tester | Red Teamer**
