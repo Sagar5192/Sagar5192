@@ -82,4 +82,4 @@ Specialized in adversary simulation, phishing campaigns, Docker & Kubernetes sec
 ---
 
 <!-- Footer Animation -->
-![Cyber Security](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![Footer Banner](https://media1.giphy.com/media/QWdT60eDhFfcKgPG2T/giphy.gif)
