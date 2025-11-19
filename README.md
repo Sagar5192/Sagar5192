@@ -1,5 +1,5 @@
 <!-- Banner GIF -->
-![Welcome]([[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZtaHV6bGN3ZHBzZWhua2dpd2Vkc3M2bnBiNWNmOTkwNGhoM3VpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZtaHV6bGN3ZHBzZWhua2dpd2Vkc3M2bnBiNWNmOTkwNGhoM3VpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)))
+![Hacker Terminal](https://media.giphy.com/media/l0HlQ7LRal5sXB5iI/giphy.gif)
 
 # If it’s online, I’ve probably tested it-  I'm Sagar D 👋
 **|Offensive Security Analyst | Senior VAPT Consultant | Penetration Tester | Red Teamer**
